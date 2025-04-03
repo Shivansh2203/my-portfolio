@@ -15,7 +15,7 @@ const About = () => {
       </div>
 
       
-      <div className="md:w-2/3 px-6 text-left">
+      <div className="md:w-2/3 px- text-left">
         <ul>
           {[
             {
